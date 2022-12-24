@@ -1,5 +1,5 @@
 # Placement_Resources-
-This is an awesome repo about Placement resources. 
+This is an awesome repo containing Placement resources. 
 
 Resources are added frequently. 🤙
 
