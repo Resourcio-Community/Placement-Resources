@@ -1,13 +1,15 @@
 # Placement_Resources-
 This is an awesome repo about Placement resources. 
 
-Resources are added frequently. 
+Resources are added frequently. 🤙
+
+Enjoy.😊
 
 ---
 ## Table of Contents
 - [Sheets for Placements](#Sheets-for-Placements):blue_book:
 - [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-Core-CS-Subjects-for-placements):incoming_envelope:
-- [Websites for Interview Preparation](#Websites-for-Interview-Preperation):computer:
+- [Websites for Interview Preparation](#Websites-for-Interview-Preparation):computer:
 - [Join our Community](#join-our-community):blush:
 ---
 
@@ -29,7 +31,7 @@ Resources are added frequently.
 |OOPS in java|[🔗 Click](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)|
 
 ## Websites for Interview Preparation 
-|Links|
+|Links to  sites|
 |-----|
 |https://www.interviewbit.com/|
 |https://www.codingninjas.com/codestudio|
