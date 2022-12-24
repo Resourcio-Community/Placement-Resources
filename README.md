@@ -7,7 +7,7 @@ Resources are added frequently.
 ## Table of Contents
 - [Sheets for Placements](#Sheets-for-Placements):blue_book:
 - [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-Core-CS-Subjects-for-placements):incoming_envelope:
-- [Websites for Interview Preparation](#websites-for-Interview-Preperation):computer:
+- [Websites for Interview Preparation](#Websites-for-Interview-Preperation):computer:
 - [Join our Community](#join-our-community):blush:
 ---
 
@@ -22,11 +22,11 @@ Resources are added frequently.
 ## YouTube Channels for Core CS Subjects for Placements
 |Name|Link|
 |----|----|
-|DBMS|[🔗](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)|
-|Operating System|[🔗](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)|
-|Computet Network|[🔗](https://youtu.be/IPvYjXCsTg8)|
-|OOPS in c++|[🔗](https://youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)|
-|OOPS in java|[🔗](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)|
+|DBMS|[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)|
+|Operating System|[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)|
+|Computet Network|[🔗 Click](https://youtu.be/IPvYjXCsTg8)|
+|OOPS in c++|[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)|
+|OOPS in java|[🔗 Click](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)|
 
 ## Websites for Interview Preparation 
 |Links|
@@ -34,3 +34,15 @@ Resources are added frequently.
 |https://www.interviewbit.com/|
 |https://www.codingninjas.com/codestudio|
 |https://www.google.com/amp/s/www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-preparation-by-geeksforgeeks/amp/|
+ ---
+## Join our Community
+| Social Media | Link |
+| ------------ | ---- |
+| Discord | [Join Us](https://discord.gg/j2cMDF6Dtx) |
+| WhatsApp | [Join Us](https://chat.whatsapp.com/Km6AX9di04ZLIpFEcXTiNK) |
+| Facebook | [Join Us](https://www.facebook.com/profile.php?id=100088472180461) |
+| Instagram | [Join Us](https://www.instagram.com/resourciocommunity22/) |
+| LinkeDin | [Join Us](https://www.linkedin.com/in/resourcio-community22/) |
+| GitHub | [Join Us](https://github.com/Resourcio-Community) |
+
+[⬆ back to top](#table-of-contents)
