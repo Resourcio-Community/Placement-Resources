@@ -3,7 +3,13 @@ This is an awesome repo about Placement resources.
 
 Resources are added frequently. 
 
+---
 ## Table of Contents
+- [Sheets for Placements](#Sheets-for-Placements):blue_book:
+- [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-Core-CS-Subjects-for-placements):incoming_envelope:
+- [Websites for Interview Preparation](#websites-for-Interview-Preperation):computer:
+- [Join our Community](#join-our-community):blush:
+---
 
 ## Sheets for Placements 
 |Name|Link|
@@ -22,7 +28,7 @@ Resources are added frequently.
 |OOPS in c++|[🔗](https://youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)|
 |OOPS in java|[🔗](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)|
 
-## Websites for Placements
+## Websites for Interview Preparation 
 |Links|
 |-----|
 |https://www.interviewbit.com/|
