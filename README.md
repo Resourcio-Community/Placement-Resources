@@ -5,6 +5,11 @@ Resources are added frequently. 🤙
 
 Enjoy.😊
 
+
+<br>To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Placement-Resources)
+
+
 ---
 ## Table of Contents
 - [Sheets for Placements](#Sheets-for-Placements):blue_book:
