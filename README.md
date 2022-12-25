@@ -4,13 +4,13 @@ This is an awesome repo containing Placement resources.
 Resources are added frequently. 🤙
 
 Enjoy.😊
-
-
-<br>To add, remove or change things on the list:
+---
+## Contributing:cupid:
+To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Placement-Resources)
 
 
----
+
 ## Table of Contents
 - [Sheets for Placements](#Sheets-for-Placements):blue_book:
 - [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-Core-CS-Subjects-for-placements):incoming_envelope:
