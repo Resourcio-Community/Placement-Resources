@@ -19,12 +19,12 @@ To add, remove or change things on the list:
 ---
 
 ## Sheets for Placements 
-|Name|Link|
-|----|----|
-| Striver sde sheet |https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/|
-| Babbar sde sheet |https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view|
-| Fraz sde sheet |https://docs.google.com/spreadsheets/u/1/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview|
-| Apni Kaksha sde sheet |https://docs.google.com/spreadsheets/u/1/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview|
+| Name | Link |
+| ---- | ---- |
+| Striver sde sheet | [Click Here](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) |
+| Babbar sde sheet | [Click Here](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) |
+| Fraz sde sheet | [Click Here](https://docs.google.com/spreadsheets/u/1/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview) |
+| Apni Kaksha sde sheet | [Click Here](https://docs.google.com/spreadsheets/u/1/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview) |
 
 ---
 
