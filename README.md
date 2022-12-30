@@ -9,12 +9,11 @@ Enjoy.😊
 To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Placement-Resources)
 
-
-
 ## Table of Contents
-- [Sheets for Placements](#Sheets-for-Placements):blue_book:
-- [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-Core-CS-Subjects-for-placements):incoming_envelope:
-- [Websites for Interview Preparation](#Websites-for-Interview-Preparation):computer:
+- [Sheets for Placements](#sheets-for-placements):blue_book:
+- [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-core-cs-subjects-for-placements):incoming_envelope:
+- [Websites for Interview Preparation](#websites-for-interview-preparation):computer:
+- [YouTube Channels for Interview Questions](#youtube-channels-for-interview-questions):smile:
 - [Join our Community](#join-our-community):blush:
 ---
 
@@ -27,12 +26,12 @@ To add, remove or change things on the list:
 | Apni Kaksha sde sheet |https://docs.google.com/spreadsheets/u/1/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview|
 
 ## YouTube Channels for Core CS Subjects for Placements
-|Name|Link|
-|----|----|
-|DBMS|[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)|
+|Name|Link|Link|
+|----|----|----|
+|DBMS|Love Babbar[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)|Gate Smashers[🔗 Click](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)|
 |Operating System|[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)|
 |Computet Network|[🔗 Click](https://youtu.be/IPvYjXCsTg8)|
-|OOPS in c++|[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)|
+|OOPS in c++|Love Babbar[🔗 Click](https://youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)|Apna College[🔗 Click](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)|
 |OOPS in java|[🔗 Click](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)|
 
 ## Websites for Interview Preparation 
@@ -42,6 +41,13 @@ To add, remove or change things on the list:
 |https://www.codingninjas.com/codestudio|
 |https://www.google.com/amp/s/www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-preparation-by-geeksforgeeks/amp/|
  ---
+ 
+## YouTube Channels for Interview Questions
+| Channel Name | Links |
+| ------------ | ----- |
+| Aditya Varma |[🔗Click](https://www.youtube.com/@TheAdityaVerma/playlists)|
+
+---
 ## Join our Community
 | Social Media | Link |
 | ------------ | ---- |
