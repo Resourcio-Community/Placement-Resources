@@ -64,7 +64,7 @@ To add, remove or change things on the list:
 |https://www.geeksforgeeks.org/dbms/|
 |https://www.geeksforgeeks.org/operating-systems/|
 |https://www.geeksforgeeks.org/computer-network-tutorials/|
-|https://www.tutorialspoint.com/system_analysis_and_design/index.html|
+|https://www.tutorialspoint.com/system_analysis_and_design/index.htm|
 
 ---
 
