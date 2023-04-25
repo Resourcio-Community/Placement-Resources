@@ -11,6 +11,7 @@ To add, remove or change things on the list:
 
 ## Table of Contents
 - [Sheets for Placements](#sheets-for-placements):blue_book:
+- [Links to Certifications and Courses](#links-to-certifications-and-courses):smiley:
 - [YouTube Channels for Core CS Subjects for Placements](#youtube-channels-for-core-cs-subjects-for-placements):incoming_envelope:
 - [Websites for Interview Preparation](#websites-for-interview-preparation):computer:
 - [YouTube Channels for Interview Questions](#youtube-channels-for-interview-questions):smile:
@@ -27,11 +28,11 @@ To add, remove or change things on the list:
 | Apni Kaksha sde sheet | [Click Here](https://docs.google.com/spreadsheets/u/1/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview) |
 
 ---
-## Links to Cerifications and Courses
-|Name|Link|
-|----|----|
-| 1000+ Free Developer Certifications | [🔗 Click](https://www.freecodecamp.org/news/free-certificates/)|
-| Here are 850+ Ivy League Courses You Can Take Right Now for Free | [🔗 Click](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)|
+## Links to Certifications and Courses
+| Name | Link |
+| ---- | ---- |
+| 1000+ Free Developer Certifications | [🔗 Click](https://www.freecodecamp.org/news/free-certificates/) |
+| Here are 850+ Ivy League Courses You Can Take Right Now for Free | [🔗 Click](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) |
 ---
 
 ## YouTube Channels for Core CS Subjects for Placements
