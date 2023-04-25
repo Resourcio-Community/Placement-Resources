@@ -27,6 +27,12 @@ To add, remove or change things on the list:
 | Apni Kaksha sde sheet | [Click Here](https://docs.google.com/spreadsheets/u/1/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview) |
 
 ---
+## Links to Cerifications and Courses
+|Name|Link|
+|----|----|
+| 1000+ Free Developer Certifications | [🔗 Click](https://www.freecodecamp.org/news/free-certificates/)|
+| Here are 850+ Ivy League Courses You Can Take Right Now for Free | [🔗 Click](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)|
+---
 
 ## YouTube Channels for Core CS Subjects for Placements
 |Name|Link|Link|
